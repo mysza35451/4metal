@@ -1,0 +1,25 @@
+{
+  "name": "4metal",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eleventy.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mysza35451/4metal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mysza35451/4metal/issues"
+  },
+  "homepage": "https://github.com/mysza35451/4metal#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1",
+    "install": "^0.13.0",
+    "npm": "^7.20.5"
+  }
+}
